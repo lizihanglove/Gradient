@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Gradient">
+        <attr name="ringWidth" format="dimension" />
+        <attr name="outerColor" format="color" />
+        <attr name="innerColor" format="color" />
+        <attr name="textColor" format="color" />
+        <attr name="textSize" format="dimension" />
+        <attr name="text" format="string" />
+    </declare-styleable>
+</resources>
